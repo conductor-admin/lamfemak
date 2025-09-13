@@ -72,7 +72,7 @@ const About = () => {
                 <h3 className="text-xl font-semibold text-primary">
                   Peter Olarewaju Abidakun
                 </h3>
-                <p className="text-muted-foreground">Chief Executive Officer</p>
+                <p className="text-muted-foreground">Partner</p>
                 <div className="flex flex-wrap gap-2">
                   {["FCA", "FCTI"].map((credential) => (
                     <span
