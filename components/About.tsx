@@ -9,7 +9,7 @@ const About = () => {
           About Our <span className="text-gradient">Partners</span>
         </h2>
         <div className="space-y-4">
-          <p className="mt-4 mb-6 md:text-2xl text-xl text-muted-foreground leading-relaxed">
+          <p className="mt-4 mb-6 md:text-2xl text-[16px] text-muted-foreground leading-relaxed">
             Led by experienced professionals with deep expertise in data
             protection, privacy regulations, and financial compliance across
             Nigeria and beyond.
