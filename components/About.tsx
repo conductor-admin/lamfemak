@@ -92,8 +92,8 @@ const About = () => {
         </div>
         <p className="text-muted-foreground leading-relaxed text-center mt-10 md:text-lg">
           With extensive qualifications and experience in banking, compliance,
-          and enterprise resource planning, our CEO brings unmatched expertise
-          to data protection and privacy consulting in Nigeria.
+          and enterprise resource planning, our partners bring unmatched
+          expertise to data protection and privacy consulting in Nigeria.
         </p>
         {/* Stats Cards */}
         <div className="mt-6 grid grid-cols-2 gap-6">
