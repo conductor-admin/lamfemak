@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section id="about" className="section-padding bg-background">
       <div className="container-width">
-        <h2 className="text-5xl md:text-6xl font-bold font-heading text-center">
+        <h2 className="text-3xl md:text-6xl font-bold font-heading text-center">
           About Our <span className="text-gradient">Partners</span>
         </h2>
         <div className="space-y-4">
