@@ -20,9 +20,9 @@ const Header = () => {
       <div className="container-width section-padding py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <div className="flex items-center space-x-3">
+          <div className="flex items-center space-x-3 pr-[50px] px-[5px] bg-[#1f294c] rounded-[5px]">
             <Image
-              src="/images/lanfemax-logo.png"
+              src="/images/logo.jpg"
               width={40}
               height={40}
               alt="LANFEMAX GLOBAL DIGITAL SERVICES"

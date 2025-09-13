@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <div className="flex items-center space-x-3">
+            <div className="flex items-center space-x-3 pr-[50px] w-[fit-content] px-[5px] bg-[#1f294c] rounded-[5px]">
               <Image
-                src="/images/lanfemax-logo.png"
+                src="/images/logo.jpg"
                 width={40}
                 height={40}
                 alt="LANFEMAK GLOBAL DIGITAL SERVICES"
