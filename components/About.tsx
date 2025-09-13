@@ -70,7 +70,7 @@ const About = () => {
             <div className="space-y-6">
               <div className="space-y-3">
                 <h3 className="text-xl font-semibold text-primary">
-                  Peter Olarewaju Abidakun
+                  Peter Olanrewaju Abidakun
                 </h3>
                 <p className="text-muted-foreground">Partner</p>
                 <div className="flex flex-wrap gap-2">
